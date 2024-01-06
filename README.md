@@ -2,6 +2,11 @@
 
 Evan Lassiter - My Online Portfolio
 
+Welcome! This repository hosts my geospatial portfolio page. Please go check out my geospatial and remote
+sensing projects at the link above!
+
+Feel free to reach out to me regarding any GIS, remote sening, or coding inquiries.
+
 ## Education
 
 - **BS** in _Human Evolutionary Biology_
