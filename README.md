@@ -2,10 +2,9 @@
 
 **Evan Lassiter - My Geospatial Portfolio**
 
-Welcome! This repository hosts my geospatial portfolio. Please go check out my geospatial and remote
-sensing projects found in the link above!
+Welcome! This repository hosts my geospatial portfolio. Please, go check out my geospatial and remote sensing projects found in the link above!
 
-Please to reach out to me regarding any GIS, remote sening, or coding inquiries.
+Reach out to me regarding any GIS, remote sening, or coding inquiries. I am eager to help!
 You can reach me on LinkedIn or by email.
 
 ## Education
