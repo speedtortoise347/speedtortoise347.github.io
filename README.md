@@ -1,11 +1,12 @@
 # speedtortoise347.github.io
 
-Evan Lassiter - My Online Portfolio
+**Evan Lassiter - My Geospatial Portfolio**
 
-Welcome! This repository hosts my geospatial portfolio page. Please go check out my geospatial and remote
-sensing projects at the link above!
+Welcome! This repository hosts my geospatial portfolio. Please go check out my geospatial and remote
+sensing projects found in the link above!
 
-Feel free to reach out to me regarding any GIS, remote sening, or coding inquiries.
+Please to reach out to me regarding any GIS, remote sening, or coding inquiries.
+You can reach me on LinkedIn or by email.
 
 ## Education
 
